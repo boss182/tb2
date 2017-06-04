@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_new_customer"
+        android:alphabeticShortcut="a"
+        android:title="@string/menu_register_customer"
+        android:orderInCategory="1" />
+
+    <item android:id="@+id/action_back_list"
+        android:alphabeticShortcut="b"
+        android:title="@string/menu_backto_list"
+        android:orderInCategory="2">
+    </item>
+
+    <item android:id="@+id/action_import"
+        android:alphabeticShortcut="d"
+        android:title="@string/menu_import"
+        android:orderInCategory="3">
+    </item>
+
+    <item android:id="@+id/action_export"
+        android:alphabeticShortcut="e"
+        android:title="@string/menu_export"
+        android:orderInCategory="4">
+    </item>
+</menu>

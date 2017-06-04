@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tibox Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_register_customer">Registrar Cliente</string>
+    <string name="menu_backto_list">Listar Clientes</string>
+    <string name="menu_import">Importar</string>
+    <string name="menu_export">Exportar</string>
+
+    <string name="empy_string"></string>
+    <string name="header_name">Nombre</string>
+    <string name="header_dni">DNI</string>
+
+    <string name="input_dni">DNI</string>
+    <string name="input_name">Nombre</string>
+    <string name="input_lastname">Apellido</string>
+
+    <string name="btn_save_customer">Registrar Cliente</string>
+    <string name="btn_take_photo">Añadir Foto</string>
+    <string name="btn_delete_customer">Eliminar Cliente</string>
+    <string name="btn_update_customer">Actualizar Cliente</string>
+
+    <string name="msg_progress_dialog">Sincronizando...</string>
+
+    <string name="validate_dni_error">Formato de DNI no válida, debe ser 8 dígitos.</string>
+    <string name="validate_empy_field">Campo no puede estar vacío.</string>
+
+</resources>
